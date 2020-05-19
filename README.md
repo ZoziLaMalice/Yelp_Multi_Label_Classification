@@ -9,4 +9,8 @@ In this competition, Yelp is challenging Kagglers to build a model that automati
 In an age of food selfies and photo-centric social storytelling, it may be no surprise to hear that Yelp's users upload an enormous amount of photos every day alongside their written reviews. Can you turn their pictures into (less than a thousand) words?</br>
 ![img](https://storage.googleapis.com/kaggle-competitions/kaggle/4829/media/yelp_5starteam_trans.png)
 
+<p align="center">
+  <img width="460" height="300" src="https://storage.googleapis.com/kaggle-competitions/kaggle/4829/media/yelp_5starteam_trans.png">
+</p>
+
 * Competition: https://www.kaggle.com/c/yelp-restaurant-photo-classification
